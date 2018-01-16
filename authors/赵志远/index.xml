@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>赵志远 on GMT 中文社区</title>
+    <link>http://gmt-china.org/authors/%E8%B5%B5%E5%BF%97%E8%BF%9C/</link>
+    <description>Recent content in 赵志远 on GMT 中文社区</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <managingEditor>admin@gmt-china.org (GMT 中文社区)</managingEditor>
+    <webMaster>admin@gmt-china.org (GMT 中文社区)</webMaster>
+    <copyright>Powered by [Hugo](https://gohugo.io) &amp; Hosted by [GitHub](https://github.com/gmt-china/gmt-china.org).</copyright>
+    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://gmt-china.org/authors/%E8%B5%B5%E5%BF%97%E8%BF%9C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>一些实用的自定义符号</title>
+      <link>http://gmt-china.org/blog/gmt-custom-symbols/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      <author>admin@gmt-china.org (GMT 中文社区)</author>
+      <guid>http://gmt-china.org/blog/gmt-custom-symbols/</guid>
+      <description>下载地址：gmt-custom-symbols.zip 虽然 GMT 内置了 40 个不同的自定义符号，但对于广大用户来说还是远远无法满足需求，因此，社区将</description>
+    </item>
+    
+    <item>
+      <title>绘制自定义符号</title>
+      <link>http://gmt-china.org/example/ex018/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <author>admin@gmt-china.org (GMT 中文社区)</author>
+      <guid>http://gmt-china.org/example/ex018/</guid>
+      <description>本文展示了 GMT 内置的 40 个自定义符号以及如何绘制这些符号。 GMT 内置自定义符号如下所示： GMT 内置自定义符号 绘制自定义符号脚本如下： #!/bin/bash ps=plot_def.ps # 绘制底图 gmt pscoast -Rg</description>
+    </item>
+    
+    <item>
+      <title>含中国大陆地区的地形图</title>
+      <link>http://gmt-china.org/example/ex010/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      <author>admin@gmt-china.org (GMT 中文社区)</author>
+      <guid>http://gmt-china.org/example/ex010/</guid>
+      <description>数据下载：eq.dat earth_relief_01m.grd 本文展示了如何绘制含中国大陆地区的地形图，同时也展示了如何通过 awk+wc+cut 对数据进行筛选计数，以及如何绘制简单的图例。 下面是绘</description>
+    </item>
+    
+  </channel>
+</rss>
